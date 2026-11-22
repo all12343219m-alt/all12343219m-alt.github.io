@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.kingapp.store",
+        "sha256_cert_fingerprints": ["06:89:D9:3D:71:DA:EE:0F:0F:46:CE:0D:B5:37:64:CA:0E:7C:6F:CE:60:36:6C:64:29:35:28:26:69:B5:00:A3"]
+      }
+    }]
